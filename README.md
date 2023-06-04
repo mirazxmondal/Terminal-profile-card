@@ -11,11 +11,12 @@ npx miraz
 ![demo](./images/demo.png)
 
 ## Steps to create your own
+
 - Open card.js
 - Replace all details with your own details
 - Publish and enjoy
 
 ## Inspiration
 
-This Card is inspired by [Anmol098](https://github.com/anmol098/). Do check him out \
-Original Repo: [Link](https://github.com/anmol098/npx_card)
+This project is inspired by [Anmol098](https://github.com/anmol098/), do check him out! \
+Original repository: [Link](https://github.com/anmol098/npx_card)
