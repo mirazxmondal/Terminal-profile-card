@@ -8,7 +8,7 @@ npx miraz
 
 ## Demo
 
-![demo]()
+![demo](./images/demo.png)
 
 ## Steps to create your own
 - Open card.js
